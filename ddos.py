@@ -4,8 +4,7 @@ import socket
 import random
 import sys
 
-
-                                                         TRAYLINZxLEXSH1N
+print                                               LORD TRAYLINZ HENGKER VVIBU DDOS ANJAY GURINJAY
 
 
 def flood(victim, vport, duration):
